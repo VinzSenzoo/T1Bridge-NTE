@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "VinSenzo",
   "license": "ISC",
   "description": "",
   "dependencies": {
