@@ -118,7 +118,7 @@ figlet.text("NT EXHAUST".toUpperCase(), { font: "Speed", horizontalLayout: "defa
 const descriptionBox = blessed.box({
   left: "center",
   width: "100%",
-  content: "{center}{bold}{bright-yellow-fg}✦ ✦ T1 BRIDGE TOOL ✦ ✦{/bright-yellow-fg}{/bold}{/center}",
+  content: "{center}{bold}{bright-yellow-fg}✦ ✦ T1 AUTO BRIDGE ✦ ✦{/bright-yellow-fg}{/bold}{/center}",
   tags: true,
   style: { fg: "white", bg: "default" }
 });
